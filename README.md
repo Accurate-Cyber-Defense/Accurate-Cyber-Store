@@ -168,10 +168,15 @@ In a world full of evolving cyber threats, **testing your infrastructure with re
 
 ---
 
-## 💳 Price: **$$4,356.00 USD**  
+## 💳 Price: **$4,356.00 USD**  
 🛒 Secure your copy now:
 
-[![Buy with PayPal](https://www.paypalobjects.com/webstatic/en_US/i/buttons/checkout-logo-large.png)](https://www.paypal.com/ncp/payment/GW9SU3A6WXTPA)
+[![Buy with PayPal](https://www.paypalobjects.com/webstatic/en_US/i/buttons/checkout-logo-large.png)](https://www.paypal.com/ncp/payment/GW9SU3A6WXTPA
+
+![Accurate Cyber-qrcode (2)](https://github.com/user-attachments/assets/02e90e27-04f3-4e55-8e6b-80d4409f1bd0)
+
+
+
 
 > 📦 Instant access includes full source, usage manual, and 24/7 support.
 
