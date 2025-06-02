@@ -106,6 +106,49 @@ or scan using QR code
 ![Accurate Cyber-qrcode (1)](https://github.com/user-attachments/assets/ab82b853-369e-4122-bf94-7903ea3072d5)
 
 
+
+# 🛡️ SCADA Cyber Threat Monitoring Tool
+
+**Protect your SCADA infrastructure from cyber sabotage, unauthorized access, and advanced persistent threats.**  
+Our SCADA Cyber Threat Monitoring Tool is built for critical industrial systems — offering real-time protection for **Supervisory Control and Data Acquisition (SCADA)** networks across energy, water, transportation, and nuclear sectors.
+
+---
+
+## 🚨 Why You Need This Tool
+
+SCADA systems control some of the most vital infrastructure in the world — and they’re increasingly under attack. From remote code injection to unauthorized command execution, attackers are targeting industrial control systems with precision.
+
+This tool gives you the power to:
+
+- ✅ Monitor SCADA traffic in real-time  
+- ✅ Detect protocol anomalies (Modbus, DNP3, IEC)  
+- ✅ Block suspicious or unauthorized activity  
+- ✅ Alert engineers and analysts instantly  
+- ✅ Maintain operational integrity and uptime
+
+---
+
+## 🔐 Ideal For:
+- Nuclear Projects  
+- Power Plants  
+- Oil & Gas Pipelines  
+- Water & Wastewater Systems  
+- Transportation Control  
+- ICS/OT Security Teams
+
+---
+
+## 💳 **Price: $92,856 USD**  
+Purchase now to secure your infrastructure:
+
+[![Buy with PayPal](https://www.paypalobjects.com/webstatic/en_US/i/buttons/checkout-logo-large.png)](https://www.paypal.com/ncp/payment/979ZRZLJTK9EC)
+
+
+
+
+
+
+
 📨 Delivery & Support
 After purchase, you'll receive:
 
