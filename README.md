@@ -42,6 +42,8 @@ Click the button below to purchase via PayPal and receive instant access to the 
 
 [![Buy with PayPal](https://www.paypalobjects.com/webstatic/en_US/i/buttons/checkout-logo-large.png)](https://www.paypal.com/ncp/payment/JYPTACVXDRRR4)
 
+![Bank System Cy-qrcode](https://github.com/user-attachments/assets/5d6d427d-fd9f-4510-bb0c-9f2993e26f14)
+
 > After payment, you'll receive the download link and setup guide via email.
 
 ---
